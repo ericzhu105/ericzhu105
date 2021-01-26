@@ -25,8 +25,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=F05032)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FCC624)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=F05032)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=61DAFB)
