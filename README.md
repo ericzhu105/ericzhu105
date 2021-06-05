@@ -57,13 +57,14 @@
 </div>
 
 ---
+  
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eric Zhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ericzhu105&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<h3>Connect & Contact Me!</h3>
-<p><a href="mailto:ericzhu105@gmail.com">Email Me!</a></p>
-<p><a href="https://discord.gg/KeDhaBC66d">My Discord</a></p>
+<h3>Contact Me!</h3>
+<p><a href="mailto:contact@ericzhu.dev">Email Me!</a></p>
 <p><a href="https://github.com/ericzhu105" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/ericzhu105" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a> <a href="https://www.linkedin.com/in/eric-zhu-4208a81b3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</a> <a href="https://www.linkedin.com/in/ericzhu105/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <a href="https://hackclub.com/"><img src="https://assets.hackclub.com/flag-orpheus-left.png" width="100"></a>
