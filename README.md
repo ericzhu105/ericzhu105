@@ -9,6 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ericzhu105&color=4285F4)
 
+<h1>Most of my work are in private repositories 🙈</h1>
+
 <h2>About Me</h2>
 <h4>Languages I Use</h4>
 
