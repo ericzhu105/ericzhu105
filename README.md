@@ -1,1 +1,1 @@
-🛰️ [Website](https://ericzhu.co/)
+🛰️ [Website](https://ericzhu.com/)
